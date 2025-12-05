@@ -20,4 +20,4 @@
 1. Projeyi **IntelliJ IDEA** ile açın.
 2. **Maven** (pom.xml) bağımlılıklarını yükleyin/yenileyin.
 3. `Main.java` dosyasını çalıştırın.
-4. _Veritabanı (`smartlibrary.db`) otomatik olarak oluşturulacaktır._
+
